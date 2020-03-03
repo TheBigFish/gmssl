@@ -6,7 +6,7 @@
 # @Desc  :
 
 import ctypes
-from .libsm3 import *
+from .libsm3_wrap import *
 from math import ceil
 import binascii
 
